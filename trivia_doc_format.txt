@@ -1,0 +1,34 @@
+Title
+Subtitle
+NumRulesFirstSlide
+Rule
+...
+Rule
+NumRulesSecondSlide
+Rule
+...
+Rule
+Category:Category
+Description of category
+Question
+Answer
+...
+Question
+Answer
+Category:Category:Music
+Description of category
+Link to vibby
+Question 10
+Answer 10
+Answer 1
+...
+Answer 9
+Category:Category:Picture
+Description of Category
+Filename1 (.png is question, .jpg is answer)
+Answer1
+...
+Filename9 (.png is question, .jpg is answer)
+Answer9
+Question10
+Answer10
